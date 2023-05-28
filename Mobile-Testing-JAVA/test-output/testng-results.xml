@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-25T21:45:03 IST" name="Default suite" finished-at="2023-05-25T21:47:26 IST" duration-ms="143469">
+    <groups>
+    </groups>
+    <test started-at="2023-05-25T21:45:03 IST" name="Default test" finished-at="2023-05-25T21:47:26 IST" duration-ms="143469">
+      <class name="Demo.appiumFramework.banjaraRide">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:45:03 IST" name="setup" finished-at="2023-05-25T21:45:23 IST" duration-ms="20569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="bookNow()[pri:0, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:45:23 IST" name="bookNow" finished-at="2023-05-25T21:45:53 IST" duration-ms="29258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bookNow -->
+        <test-method signature="menuBar_bookings()[pri:1, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:45:53 IST" name="menuBar_bookings" finished-at="2023-05-25T21:46:11 IST" duration-ms="17994" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuBar_bookings -->
+        <test-method signature="aboutUs()[pri:2, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:46:11 IST" name="aboutUs" finished-at="2023-05-25T21:46:28 IST" duration-ms="17487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutUs -->
+        <test-method signature="informationCenter()[pri:3, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:46:28 IST" name="informationCenter" finished-at="2023-05-25T21:46:50 IST" duration-ms="21573" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- informationCenter -->
+        <test-method signature="Profile()[pri:4, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:46:50 IST" name="Profile" finished-at="2023-05-25T21:47:01 IST" duration-ms="11487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Profile -->
+        <test-method signature="appLanguage()[pri:5, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:47:01 IST" name="appLanguage" finished-at="2023-05-25T21:47:14 IST" duration-ms="12461" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- appLanguage -->
+        <test-method signature="callUs()[pri:6, instance:Demo.appiumFramework.banjaraRide@223d2c72]" started-at="2023-05-25T21:47:14 IST" name="callUs" finished-at="2023-05-25T21:47:26 IST" duration-ms="12496" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callUs -->
+      </class> <!-- Demo.appiumFramework.banjaraRide -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

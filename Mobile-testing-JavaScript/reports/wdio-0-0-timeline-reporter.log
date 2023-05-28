@@ -1,0 +1,158 @@
+{
+  "start": "2023-05-27T07:45:54.731Z",
+  "end": "2023-05-27T07:51:03.487Z",
+  "capabilities": {
+    "platform": "LINUX",
+    "webStorageEnabled": false,
+    "takesScreenshot": true,
+    "javascriptEnabled": true,
+    "databaseEnabled": false,
+    "networkConnectionEnabled": true,
+    "locationContextEnabled": false,
+    "warnings": {},
+    "desired": {
+      "platformName": "Android",
+      "deviceName": "Tushar",
+      "appPackage": "org.khanacademy.android",
+      "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+      "automationName": "uiautomator2",
+      "app": "./App/Android/khan-academy-7-9-1.apk",
+      "autoGrandPermission": true
+    },
+    "platformName": "Android",
+    "deviceName": "infeww7pz96hobnn",
+    "appPackage": "org.khanacademy.android",
+    "appActivity": "org.khanacademy.android.ui.library.MainActivity",
+    "automationName": "uiautomator2",
+    "app": "./App/Android/khan-academy-7-9-1.apk",
+    "autoGrandPermission": true,
+    "deviceUDID": "infeww7pz96hobnn",
+    "deviceApiLevel": 30,
+    "platformVersion": "11",
+    "deviceScreenSize": "1080x2400",
+    "deviceScreenDensity": 440,
+    "deviceModel": "M2103K19I",
+    "deviceManufacturer": "Xiaomi",
+    "pixelRatio": 2.75,
+    "statBarHeight": 103,
+    "viewportRect": {
+      "left": 0,
+      "top": 103,
+      "width": 1080,
+      "height": 2064
+    },
+    "sessionId": "dddbc3e2-e332-4e70-9efd-207df484d21c"
+  },
+  "host": "127.0.0.1",
+  "port": 4723,
+  "baseUrl": "",
+  "framework": "mocha",
+  "duration": 308756,
+  "suites": [
+    {
+      "title": "Khan Academy Mobile App Testing of Android",
+      "duration": 308218,
+      "start": "2023-05-27T07:45:54.744Z",
+      "end": "2023-05-27T07:51:02.962Z",
+      "tests": [
+        {
+          "title": "1. Go to Computer Science Section",
+          "start": "2023-05-27T07:45:54.746Z",
+          "end": "2023-05-27T07:46:16.443Z",
+          "duration": 21697,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "2. Go To Cryptography and Bookmark Three Topics",
+          "start": "2023-05-27T07:46:16.444Z",
+          "end": "2023-05-27T07:46:47.332Z",
+          "duration": 30888,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "3. Go To Information Theory And Bookmark Modern IT",
+          "start": "2023-05-27T07:46:47.333Z",
+          "end": "2023-05-27T07:47:01.031Z",
+          "duration": 13698,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "4. Open Bookmark and Verify Bookmark List",
+          "start": "2023-05-27T07:47:01.031Z",
+          "end": "2023-05-27T07:47:15.189Z",
+          "duration": 14158,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "5. Clear All Bookmarks",
+          "start": "2023-05-27T07:47:15.190Z",
+          "end": "2023-05-27T07:47:26.210Z",
+          "duration": 11020,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "6. Go To \"Life Skills\" And Play Video",
+          "start": "2023-05-27T07:47:26.210Z",
+          "end": "2023-05-27T07:48:04.781Z",
+          "duration": 38571,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "7. Verify Last Seen Topic",
+          "start": "2023-05-27T07:48:04.816Z",
+          "end": "2023-05-27T07:48:16.529Z",
+          "duration": 11713,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": " changing icon",
+          "start": "2023-05-27T07:48:16.529Z",
+          "end": "2023-05-27T07:48:35.964Z",
+          "duration": 19435,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "10. Arts and Humanities",
+          "start": "2023-05-27T07:48:35.964Z",
+          "end": "2023-05-27T07:49:53.048Z",
+          "duration": 77084,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "8. changing of native to web app",
+          "start": "2023-05-27T07:49:53.049Z",
+          "end": "2023-05-27T07:50:56.822Z",
+          "duration": 63773,
+          "state": "passed",
+          "screenshots": []
+        },
+        {
+          "title": "11. Close",
+          "start": "2023-05-27T07:50:56.823Z",
+          "end": "2023-05-27T07:51:02.959Z",
+          "duration": 6136,
+          "state": "passed",
+          "screenshots": []
+        }
+      ],
+      "hooks": []
+    }
+  ],
+  "specs": [
+    "file:///C:/Users/LENOVO/Desktop/Mobile-Testing-Project/test/specs/khanacademyTest.js"
+  ],
+  "state": {
+    "passed": 11,
+    "failed": 0,
+    "skipped": 0
+  }
+}
